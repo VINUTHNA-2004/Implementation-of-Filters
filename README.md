@@ -124,23 +124,23 @@ plt.axis("off")
 ## OUTPUT:
 ### 1. Smoothing Filters:
 i) Using Averaging Filter:
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Implementation-of-Filters/blob/main/vv1.PNG?raw=true)
 
 ii) Using Weighted Averaging Filter:
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Implementation-of-Filters/blob/main/vv2.PNG?raw=true)
 
 iii) Using Weighted Averaging Filter:
-![output](?rae=true)
+![output](https://github.com/VINUTHNA-2004/Implementation-of-Filters/blob/main/vv3.PNG?raw=true)
 
 iv) Using Median Filter:
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Implementation-of-Filters/blob/main/vv4.PNG?raw=true)
 
 ### 2. Sharpening Filters:
 i) Using Laplacian Kernal:
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Implementation-of-Filters/blob/main/vv5.PNG?raw=true)
 
 ii) Using Laplacian Operator:
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Implementation-of-Filters/blob/main/vv6.PNG?raw=true)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
