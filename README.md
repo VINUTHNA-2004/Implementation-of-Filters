@@ -24,11 +24,13 @@ Plot the images of the original one and the filtered one using plt.figure() and 
 ## Program:
 ### Developed By :D.R.VINUTHNA
 ### Register Number:212221230017
+```
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 image = cv2.imread("burj khalifa.jpg")
 original_image = cv2.cvtColor(image,cv2.COLOR_BGR2RGB)
+```
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
