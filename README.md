@@ -133,7 +133,7 @@ iii) Using Weighted Averaging Filter:
 ![output](https://github.com/VINUTHNA-2004/Implementation-of-Filters/blob/main/dr3.PNG?rae=true)
 
 iv) Using Median Filter:
- ![output](https://github.com/VINUTHNA-2004/Implementation-of-Filters/blob/main/dr4.PNG?raw=true)
+![output](https://github.com/VINUTHNA-2004/Implementation-of-Filters/blob/main/dr4.PNG?raw=true)
 
 ### 2. Sharpening Filters:
 i) Using Laplacian Kernal:
